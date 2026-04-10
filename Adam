@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="margin:0;padding:20px;font-family:Arial,sans-serif;background:#ffffff;">
+<p style="margin:0 0 20px 0;font-size:15px;color:#333333;">Kind regards,</p>
+<table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+  <tr>
+    <td style="padding-right:20px;vertical-align:middle;">
+      <img src="https://www.theinvestorscentre.co.uk/wp-content/uploads/2026/04/Wolfstone-white-background.png" width="130" style="display:block;border:0;outline:none;" />
+    </td>
+    <td style="padding-left:20px;vertical-align:middle;border-left:2px solid #00BFFF;">&nbsp;</td>
+    <td style="padding-left:20px;vertical-align:middle;">
+      <p style="margin:0 0 2px 0;font-size:17px;font-weight:700;color:#0d1b3e;font-family:Arial,sans-serif;">Adam Woodhead</p>
+      <p style="margin:0 0 8px 0;font-size:12px;font-weight:700;color:#00BFFF;letter-spacing:1px;font-family:Arial,sans-serif;">CO-FOUNDER</p>
+      <p style="margin:0 0 4px 0;font-size:13px;color:#333333;font-family:Arial,sans-serif;"><span style="color:#0d1b3e;font-weight:600;">W:</span> <a href="https://www.wolfstone.digital" style="color:#333333;text-decoration:underline;">www.wolfstone.digital</a></p>
+      <p style="margin:0;font-size:13px;color:#333333;font-family:Arial,sans-serif;"><span style="color:#0d1b3e;font-weight:600;">M:</span> <a href="tel:07544926082" style="color:#333333;text-decoration:underline;">07544926082</a></p>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
